@@ -1,0 +1,9 @@
+{
+  "name": "greattech/scandiweb-php-test",
+  "autoload": {
+    "psr-4": {
+      "Src\\": "./src"
+    }
+  },
+  "require": {}
+}
